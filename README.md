@@ -1,4 +1,58 @@
 
+# 👋 Hi, I'm Sanika Linge
+
+### 💻 B.Tech Computer Engineering Student | AI/ML & Data Science Enthusiast | Aspiring Software Engineer
+
+🚀 **Building. Learning. Solving. Growing.**
+I'm passionate about transforming ideas into **impactful software solutions** and exploring the world of **Artificial Intelligence, Machine Learning, Data Science, and Software Engineering**.
+
+🎓 Pursuing **B.Tech in Computer Engineering**
+🧠 Passionate about **problem-solving, DSA, software development & emerging technologies**
+🌱 Continuously learning and turning knowledge into **real-world projects**
+📍 India 🇮🇳
+
+---
+
+### 🔭 What I'm Currently Building
+
+Exploring and developing **AI-powered applications, data-driven solutions, and full-stack projects** while strengthening my foundations in **DSA, programming, and software engineering**.
+
+### 🌱 Currently Learning & Exploring
+
+**Java • Python • DSA • SQL • AI/ML • Data Science • Backend Development • Generative AI**
+
+### 👯 Let's Collaborate
+
+I'm open to collaborating on **AI/ML, Data Science, Python, Java, Open-Source, and innovative software projects** that turn challenging problems into meaningful solutions.
+
+### 🤝 What I'm Looking For
+
+🚀 **Internships • Open-Source Contributions • Project Collaborations • Mentorship • Software Engineering Opportunities**
+
+I'm eager to learn from experienced developers, contribute to real-world projects, and grow into a **skilled Software & AI/ML Engineer**.
+
+### 💬 Let's Talk About
+
+**Java • Python • DSA • SQL • AI/ML • Data Science • GitHub • Software Development • Projects**
+
+### ⚡ A Little About Me
+
+> **Curious mind. Continuous learner. Problem solver. Future builder. 🚀**
+
+I believe that **every challenging problem is an opportunity to learn, innovate, and build something better.**
+
+### 🎯 My 2027–28 Mission
+
+To evolve into a **strong Software Engineering & AI/ML professional** by building impactful projects, mastering problem-solving, contributing to real-world solutions, and gaining valuable industry experience.
+
+**✨ Learn → Build → Contribute → Grow**
+
+
+
+
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanika-linge5992) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanikalinge448@gmail.com) 
 
